@@ -44,7 +44,7 @@ Edit config.php (or your database connection file) and update with your credenti
 $host = "localhost";
 $user = "root";      // your MySQL username
 $pass = "";          // your MySQL password
-$db   = "voting_system";
+$db   = "votingsystem";
 
 ### 4️⃣ Run the Project
 
