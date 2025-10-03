@@ -1,7 +1,7 @@
 <?php
 $host = "localhost";
 $user = "root";
-$pass = "mayanksql@28";
+$pass = "";
 $db   = "votingsystem"; // use your DB name
 
 $conn = new mysqli($host, $user, $pass, $db);
