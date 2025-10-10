@@ -33,7 +33,7 @@ cd Online-Voting-System
 
 Open phpMyAdmin.
 
-Create a new database named voting_system.
+Create a new database named votingsystem.
 
 Import the file voting_system.sql (provided in the sql/ folder).
 
